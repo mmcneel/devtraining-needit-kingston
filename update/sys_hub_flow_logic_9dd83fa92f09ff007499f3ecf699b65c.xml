@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow_logic">
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">5dd83fa92f09ff007499f3ecf699b65a</block>
+        <comment/>
+        <connected_to>90e3a30e-9023-432f-866e-ae6f27070b4b</connected_to>
+        <decision_table/>
+        <decision_table_inputs/>
+        <display_text/>
+        <flow display_value="NeedIt Fulfillment">e08edfa12fc5ff007499f3ecf699b6c9</flow>
+        <inputs/>
+        <logic_definition display_value="Else">1f781bf3c32232002841b63b12d3aee6</logic_definition>
+        <order>4</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>mitch.mcneel</sys_created_by>
+        <sys_created_on>2019-04-26 17:48:08</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>9dd83fa92f09ff007499f3ecf699b65c</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_hub_flow_logic_9dd83fa92f09ff007499f3ecf699b65c</sys_update_name>
+        <sys_updated_by>mitch.mcneel</sys_updated_by>
+        <sys_updated_on>2019-04-26 19:35:09</sys_updated_on>
+        <ui_id>289c294f-cfe1-4cc7-aa13-96efe9a807a0</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=9dd83fa92f09ff007499f3ecf699b65c"/>
+</record_update>
